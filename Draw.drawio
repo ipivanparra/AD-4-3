@@ -45,6 +45,17 @@
                         <mxPoint x="360" y="480" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#FFFF00;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1" source="9" target="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="220" y="360" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="230" y="410"/>
+                            <mxPoint x="220" y="390"/>
+                            <mxPoint x="220" y="340"/>
+                            <mxPoint x="240" y="330"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
                 <mxCell id="9" value="decimal_num // 2&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
                     <mxGeometry x="300" y="380" width="120" height="60" as="geometry"/>
                 </mxCell>
@@ -85,6 +96,18 @@
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="500" y="450" as="sourcePoint"/>
                         <mxPoint x="450" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontColor=#000000;fillColor=#e3c800;strokeColor=#B09500;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="270" width="20" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;h1&gt;Input&lt;/h1&gt;&lt;p&gt;Type in any number to be convereted into binary.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FFFF00;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="10" width="180" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="shape=flexArrow;endArrow=classic;html=1;fontColor=#FFFF00;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="490" y="50" as="sourcePoint"/>
+                        <mxPoint x="450" y="80" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>
